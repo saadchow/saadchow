@@ -25,4 +25,4 @@ const Saad = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><b>I love connecting and meeting new people!</b> <em>Feel free to contact me through email(✉️: saad.c10@gmail.com) or any of my socials and I will be happy to chat!</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><b>I love connecting and meeting new people!</b> <em>Feel free to contact me through email (✉️: saad.c10@gmail.com) or any of my socials and I will be happy to chat!</em>
