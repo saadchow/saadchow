@@ -17,7 +17,7 @@ const Saad = {
             Location: "Toronto, ON"
             Favourite Food: "Tuna 🐟"
             Hobbies: "PowerLifting 🔩", "Most Sports 🏀", "Music🎵"            
-    }
+    },
     code: [Javascript, HTML, CSS, Python],
     tools: [React.js, Node.js, Django, Express, Bootstrap, TailWindCSS, MongoDB, PostgreSQL, AWS3],
     availabilty: "Currently exploring new opportunities!",
