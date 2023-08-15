@@ -19,7 +19,7 @@ const Saad = {
             Hobbies: "PowerLifting 🔩", "Most Sports 🏀", "Music🎵"            
     },
     code: [Javascript, HTML, CSS, Python],
-    tools: [React.js, Node.js, Django, Express, Bootstrap, TailWindCSS, MongoDB, PostgreSQL, AWS3],
+    tools: [React, Node, Django, Express, Bootstrap, TailWindCSS, MongoDB, PostgreSQL, AWS3],
     availabilty: "Currently exploring new opportunities!",
     challenge: "I am currently working on a project to build a full-stack web application using TypeScript!"
 }
