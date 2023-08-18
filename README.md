@@ -1,7 +1,7 @@
 <h1>Hello!👋</h1>
 <h2>Welcome to my page. I'm Saad Chowdhury!</h2>
 <img align='right' src="https://i.imgur.com/ZjSKN2o.png" width="430">
-<p>Honours Life Science Graduate from <a href="https://www.mcmaster.ca/">McMaster University 🎓</a></br>Full-Stack Software Developer from <a href="https://generalassemb.ly/">General Assembly 💻</a></p>
+<p>Honours Life Science Graduate from McMaster University 🎓</a></br>Full-Stack Software Developer from General Assembly 💻</a></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saaadchow)
 [![Linkedin: saadchow](https://img.shields.io/badge/-saadchow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saadchow/)](https://www.linkedin.com/in/saadchow/)
